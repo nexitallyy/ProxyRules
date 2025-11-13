@@ -5,7 +5,7 @@ DOMAIN-SUFFIX,ping0.cc
 
 # Google
 # DOMAIN-REGEX,sn-(2x3|ni5|j5o)[a-z0-9A-Z]+\.xn--ngstr-lra8j\.com
-DOMAIN-SUFFIX,googleapis.cn
+# DOMAIN-SUFFIX,googleapis.cn
 #DOMAIN-SUFFIX,sn-2x3edn7e.xn--ngstr-lra8j.com
 #DOMAIN-SUFFIX,sn-2x3edn7l.xn--ngstr-lra8j.com
 #DOMAIN-SUFFIX,sn-2x3edn7s.xn--ngstr-lra8j.com
