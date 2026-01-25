@@ -65,6 +65,9 @@ DOMAIN-SUFFIX,ping0.cc
 # DNSPod Private DNS
 DOMAIN-SUFFIX,durable0762.com
 DOMAIN-SUFFIX,delirium9599.com
+DOMAIN-SUFFIX,wrecking7857.com
+DOMAIN-SUFFIX,carrousel6917.com
+DOMAIN-SUFFIX,simmering3378.com
 
 # Weixin App
 PROCESS-NAME,Weixin.exe
