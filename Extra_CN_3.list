@@ -71,3 +71,8 @@ DOMAIN-SUFFIX,simmering3378.com
 
 # Weixin App
 PROCESS-NAME,Weixin.exe
+
+# Others
+IP-CIDR,87.83.109.0/24
+IP-CIDR,142.248.148.0/24
+IP-CIDR,209.248.34.0/24
