@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,ping0.cc
 # DOMAIN-SUFFIX,sn-ni5eln7z.xn--ngstr-lra8j.com
 
 # DNSPod Private DNS
+DST-PORT,44443
 DOMAIN-SUFFIX,durable0762.com
 DOMAIN-SUFFIX,delirium9599.com
 DOMAIN-SUFFIX,wrecking7857.com
