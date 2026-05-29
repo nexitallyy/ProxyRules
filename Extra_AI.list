@@ -44,6 +44,15 @@ DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+PROCESS-NAME,Claude
+PROCESS-NAME,Claude Helper
+PROCESS-NAME,Claude Helper (GPU)
+PROCESS-NAME,Claude Helper (Plugin)
+PROCESS-NAME,Claude Helper (Renderer)
+PROCESS-NAME,claude
+PROCESS-NAME,Claude Code
+PROCESS-NAME,Claude Code Helper
 
 # BardAI
 DOMAIN,ai.google.dev
