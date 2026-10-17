@@ -271,6 +271,7 @@ PROCESS-NAME,daytradr64.exe
 PROCESS-NAME,bookmap.exe
 PROCESS-NAME,tws.exe
 PROCESS-NAME,Rithmic Trader Pro.exe
+PROCESS-NAME,OFT.Platform.exe
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,futu.cn
 DOMAIN-SUFFIX,futu.link
