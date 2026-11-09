@@ -81,3 +81,6 @@ DOMAIN-SUFFIX,chorus.sh
 # Grok
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
+
+# Muse
+DOMAIN-SUFFIX,meta.ai
