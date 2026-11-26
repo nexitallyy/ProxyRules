@@ -272,6 +272,7 @@ PROCESS-NAME,bookmap.exe
 PROCESS-NAME,tws.exe
 PROCESS-NAME,Rithmic Trader Pro.exe
 PROCESS-NAME,OFT.Platform.exe
+PROCESS-NAME,OFT.PlatformX.exe
 DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,futu.cn
 DOMAIN-SUFFIX,futu.link
