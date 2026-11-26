@@ -53,6 +53,7 @@ PROCESS-NAME,Claude Helper (Renderer)
 PROCESS-NAME,claude
 PROCESS-NAME,Claude Code
 PROCESS-NAME,Claude Code Helper
+PROCESS-NAME,Claude.exe
 
 # BardAI
 DOMAIN,ai.google.dev
